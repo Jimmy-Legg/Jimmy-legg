@@ -15,6 +15,6 @@
 	</a>
 	<span>&nbsp;</span>
 	<a href="http://jimmylegg.atwebpages.com/" target=”_blank”>
-		<img src="https://cdn.discordapp.com/attachments/857359263184846869/1183717522567086080/Banniere_Reddit_Texte_Gras_Noir_et_Violet_1.png?ex=658959d9&is=6576e4d9&hm=a1ab03bc40194ba76348758bc007aaadde5d54bb34f18d9fc2484e7d96839117&" width="150px height=auto>
+		<img src="https://cdn.discordapp.com/attachments/857359263184846869/1183720329655353383/Banniere_Reddit_Texte_Gras_Noir_et_Violet_1.png?ex=65895c77&is=6576e777&hm=16af799b69578ff76269c20b152aff052c4b21d05c3eac6f666ce3f46d91e4e3&" width="150px height=auto>
 	</a>
 </p>
