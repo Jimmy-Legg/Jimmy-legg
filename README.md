@@ -1,9 +1,27 @@
-### Hi there 👋
+# Welcome to Jimmy-Legg's GitHub!
+Hi there! I'm Jimmy, a passionate developer with a keen interest in Java and web technologies.
+
+
+## About Me
+- 🌱 Currently working on enhancing my Java and HTML skills.
+- 👯 Looking to collaborate on innovative open-source projects.
+- 📫 Reach me at: [Email]
+
+
 <p align="center">
 	<a href="http://jimmylegg.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/857359263184846869/1183714585170161684/o.png?ex=6589571d&is=6576e21d&hm=4708df5e011d8b6b597574cb5927112a71261666af8a5cecd6ee4178e4f4750f&" width="100%" target=”_blank”></a>
 </p>
 
-# 📭 Contact
+## Projects
+- Orchard: Java-based farm management app.
+- WatzTheEngineer/WEB-2023-G4B: Web project collaboration.
+
+
+Connect with Me
+[Personal Website]
+[LinkedIn Profile]
+
+## 📭 Contact
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/jimmy-legg-521623271/" target=”_blank>
@@ -15,11 +33,7 @@
 	</a>
 	<span>&nbsp;</span>
 	<a href="http://jimmylegg.atwebpages.com/" target=”_blank”>
-		<img src="https://cdn.discordapp.com/attachments/857359263184846869/1183720329655353383/Banniere_Reddit_Texte_Gras_Noir_et_Violet_1.png?ex=65895c77&is=6576e777&hm=16af799b69578ff76269c20b152aff052c4b21d05c3eac6f666ce3f46d91e4e3&" width="150px>
+		<img src="https://cdn.discordapp.com/attachments/857359263184846869/1183720329655353383/Banniere_Reddit_Texte_Gras_Noir_et_Violet_1.png?ex=65895c77&is=6576e777&hm=16af799b69578ff76269c20b152aff052c4b21d05c3eac6f666ce3f46d91e4e3&" width="150px">
 	</a>
+    <span>&nbsp;</span>
 </p>
-
-I'm a French student in IT and computing who enjoys developing all kinds of programs and software. I'm also interested in video game development and digital design.
-
-## `🛠️ Technologies`
-
