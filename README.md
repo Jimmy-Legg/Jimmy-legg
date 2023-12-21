@@ -16,11 +16,6 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Java and web
 - Orchard: Java-based farm management app.
 - WatzTheEngineer/WEB-2023-G4B: Web project collaboration.
 
-
-Connect with Me
-[Personal Website]
-[LinkedIn Profile]
-
 ## 📭 Contact
 
 <p align="center">
