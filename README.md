@@ -8,7 +8,7 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Java and web
 ## About Me
 - 🌱 Currently working on enhancing my Java and HTML skills.
 - 👯 Looking to collaborate on innovative open-source projects.
-- 📫 Reach me at: [Email]
+- 📫 Reach me at: jimmy.legg18@gmail.com
 
 
 
