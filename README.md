@@ -6,7 +6,7 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Java and web
 </p>
 
 ## About Me
-- 🌱 Currently working on enhancing my Java and HTML skills.
+- 🌱 Currently working on enhancing my Python, Web, HTML, CSS, React skills.
 - 👯 Looking to collaborate on innovative open-source projects.
 - 📫 Reach me at: jimmy.legg18@gmail.com
 
