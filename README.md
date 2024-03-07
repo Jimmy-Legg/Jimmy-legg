@@ -2,7 +2,7 @@
 Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and web technologies.
 
 <p align="center">
-	<a href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://drive.google.com/file/d/1T7x62gftaTKOBKZpD-pyCEWtd57upM2z/view?usp=sharing"></a>
+	<a target="_blank" href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://i.ibb.co/HHqphC4/o.png"></a>
 </p>
 
 ## About Me
