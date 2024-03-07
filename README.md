@@ -38,13 +38,12 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 
 ## Software and framework that I use
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100px"/>
+<a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px"/></a>
+<a href="https://docs.microsoft.com/en-us/visualstudio/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100px"/></a>
 <a href="https://docs.github.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px" /></a>
- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="100px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="100px" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"/>
-
+<a href="https://www.blender.org/support/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="100px"/></a>
+<a href="https://developer.android.com/studio/intro" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="100px" /></a>
+<a href="https://docs.microsoft.com/en-us/azure/azure-sql/database/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"/></a>
 </div>
 
 ## About Me
