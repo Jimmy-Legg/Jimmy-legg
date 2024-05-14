@@ -59,7 +59,6 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
   <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
   <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
   <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
-- WatzTheEngineer/WEB-2023-G4B: Web project collaboration.
 
 ## 📭 Contact
 
