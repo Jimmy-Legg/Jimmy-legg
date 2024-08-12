@@ -54,11 +54,6 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 
 
 ## Projects
-### Orchard: Java-based game where players or player has to collect fruits before the crow puzzle is compleat.
-  <br>
-  <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
-  <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
-  <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
 
 # Dreams Donuts Command Application
 
@@ -131,6 +126,12 @@ The LAB page provides an interface where commands from produce page can be seen.
 On the LAB page there is ding sounds and voice anounching new donuts sent, but the voice and ding sound cand be muted.
 
 ![Sounds](https://i.ibb.co/QHJX8YY/sounds.png)
+
+### Orchard: Java-based game where players or player has to collect fruits before the crow puzzle is compleat.
+  <br>
+  <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
+  <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
+  <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
 
 
 ## 📭 Contact
