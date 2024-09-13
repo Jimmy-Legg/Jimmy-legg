@@ -59,6 +59,15 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 
 This application is designed to help donut production 
 
+The Dreams Donuts Command Application is a web-based tool that allows users to manage and track donuts in a production environment. It includes features for:
+
+- Managing donut production
+- Updating weekly donut selections
+- Viewing donut statistics
+- Adding new donuts
+- Uploading and replacing donut images
+- Generating CSV reports
+
 For more information :
 [Dreams Donuts](DreamsDonuts.md)
 
