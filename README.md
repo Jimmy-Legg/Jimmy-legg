@@ -2,7 +2,7 @@
 Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and web technologies.
 
 <p align="center">
-	<a target="_blank" href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://i.ibb.co/HHqphC4/o.png"></a>
+  <a target="_blank" href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://i.ibb.co/HHqphC4/o.png"></a>
 </p>
 
 ## Computer Skills
@@ -29,15 +29,9 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100px"/></a>
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px" /></a>
 <a href="https://www.rust-lang.org/learn" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="100px"/></a>
-
-
-
-
-
-
 </div>
 
-## Software and framework that I use
+## Software and Frameworks I Use
 <div>
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px"/></a>
 <a href="https://docs.microsoft.com/en-us/visualstudio/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100px"/></a>
@@ -51,16 +45,11 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 - 🌱 Currently working on enhancing my Python, Web, HTML, CSS, React skills
 - 📫 Reach me at: jimmy.legg18@gmail.com
 
-
-
 ## Projects
 
-# Dreams Donuts Command Application
+### Dreams Donuts Command Application
 
-This application is designed to help donut production 
-
-The Dreams Donuts Command Application is a web-based tool that allows users to manage and track donuts in a production environment. It includes features for:
-
+This application is designed to help donut production. It includes features for:
 - Managing donut production
 - Updating weekly donut selections
 - Viewing donut statistics
@@ -68,32 +57,39 @@ The Dreams Donuts Command Application is a web-based tool that allows users to m
 - Uploading and replacing donut images
 - Generating CSV reports
 
-For more information :
-[Dreams Donuts](DreamsDonuts.md)
+For more information: [Dreams Donuts](DreamsDonuts.md)
 
-### Orchard: Java-based game where players or player has to collect fruits before the crow puzzle is compleat.
-  <br>
+### Orchard
+A Java-based game where players collect fruits before the crow completes the puzzle.
+
+<p align="center">
   <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
   <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
   <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
+</p>
 
+### Unity AR Tower Defense
+
+This is a Unity-based augmented reality tower defense game where players strategically place towers to defend their territory from waves of enemies. The game leverages AR capabilities to bring the battlefield into the real world.
+
+- **Technologies**: Unity, C#
+- **Platform**: Android
+- **Features**: Tower placement, wave-based enemy system, AR integration
+
+For more information: [Unity AR Tower Defense](https://github.com/Jimmy-Legg/UnityARTowerDefense)
 
 ## 📭 Contact
 
-<p aligne="center">
-	<a href="https://www.linkedin.com/in/jimmy-legg-521623271/" target=”_blank>
+<p align="center">
+	<a href="https://www.linkedin.com/in/jimmy-legg-521623271/" target="_blank">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="mailto:jimmy.legg18@gmail.com" target=”_blank”>
+	<a href="mailto:jimmy.legg18@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="http://jimmylegg.atwebpages.com/" target=”_blank”>
+	<a href="http://jimmylegg.atwebpages.com/" target="_blank">
 		<img src="https://i.ibb.co/HHqphC4/o.png" width="140px">
 	</a>
-    <span>&nbsp;</span>
 </p>
-
-
-
