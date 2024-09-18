@@ -59,15 +59,6 @@ This application is designed to help donut production. It includes features for:
 
 For more information: [Dreams Donuts](DreamsDonuts.md)
 
-### Orchard
-A Java-based game where players collect fruits before the crow completes the puzzle.
-
-<p align="center">
-  <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
-  <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
-  <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
-</p>
-
 ### Unity AR Tower Defense
 
 This is a Unity-based augmented reality tower defense game where players strategically place towers to defend their territory from waves of enemies. The game leverages AR capabilities to bring the battlefield into the real world.
@@ -77,6 +68,15 @@ This is a Unity-based augmented reality tower defense game where players strateg
 - **Features**: Tower placement, wave-based enemy system, AR integration
 
 For more information: [Unity AR Tower Defense](https://github.com/Jimmy-Legg/UnityARTowerDefense)
+
+### Orchard
+A Java-based game where players collect fruits before the crow completes the puzzle.
+
+<p align="center">
+  <img src="https://i.ibb.co/ZJ2H7VD/Image1.png" width="400px">
+  <img src="https://i.ibb.co/ch4b3tt/Image2.png" width="400px">
+  <img src="https://i.ibb.co/1sGLDy2/Image3.png" width="400px">
+</p>
 
 ## 📭 Contact
 
