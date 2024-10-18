@@ -5,6 +5,8 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
   <a target="_blank" href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://i.ibb.co/HHqphC4/o.png"></a>
 </p>
 
+https://profile-counter.glitch.me/Jimmy-Legg/count.svg
+
 ## Computer Skills
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" /></a>
