@@ -4,8 +4,10 @@ Hi there! I'm Jimmy, a passionate developer with a keen interest in Python and w
 <p align="center">
   <a target="_blank" href="http://jimmylegg.atwebpages.com/" target="_blank"><img src="https://i.ibb.co/HHqphC4/o.png"></a>
 </p>
+<p align="center">
+<a href="https://github.com/SylarLong/iztro"><img src="https://profile-counter.glitch.me/Jimmy-Legg/count.svg" alt="Visit Count" /></a>
+</p>
 
-https://profile-counter.glitch.me/Jimmy-Legg/count.svg
 
 ## Computer Skills
 <div>
